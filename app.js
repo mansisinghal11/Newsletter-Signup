@@ -65,6 +65,4 @@ app.listen(process.env.PORT || 3000, function(){
   console.log("Server is running on port 3000");
 });
 
-// 1093bc2b95e36ec06a0438e50576e5a5-us1
-// 332947acc0
-// https://mandrillapp.com/api/1.0/lists/332947acc0
+
